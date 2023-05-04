@@ -324,3 +324,10 @@ body {
     padding: 2rem 4rem;
     overflow-y: scroll;
 }
+
+span[class^="highlight-"] {
+    background-color: yellow;
+    font-weight: bold;
+    color: #3400c4;
+  }
+  
